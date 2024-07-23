@@ -27,5 +27,6 @@ public class Pattern {
     {
         int n = 6;
         printPattern(n);
+        System.out.println("\n Bye Bye");
     }
 }

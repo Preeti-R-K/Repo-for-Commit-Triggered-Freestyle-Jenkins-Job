@@ -18,7 +18,7 @@ public class Pattern {
                 System.out.print(i + " ");
             }
             // print new line for each row
-            System.out.println();
+            System.out.println("****");
         }
     }
 
